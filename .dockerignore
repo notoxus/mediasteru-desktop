@@ -1,0 +1,6 @@
+node_modules/
+dist/
+downloads/
+.mediasteru-data/
+.git/
+*.log
