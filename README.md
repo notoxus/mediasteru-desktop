@@ -1,5 +1,7 @@
 # Electron / Wayland desktop client
 
+![Downloads](https://img.shields.io/github/downloads/notoxus/mediasteru-desktop/total)
+
 This repository contains the Electron desktop client and headless daemon. The Swing app is maintained separately in [mediasteru-java-app](https://github.com/notoxus/mediasteru-java-app).
 
 ## Run
